@@ -11,6 +11,9 @@ User-Friendly Interface: Built with Gradio for easy interaction and real-time re
 
 Modular Architecture: Adopts SOLID principles and dependency injection for better maintainability and scalability.
 
+
+
+
 Use Cases :
 Analyze customer feedback from audio recordings.
 
@@ -18,8 +21,13 @@ Evaluate emotional tone in podcasts and interviews.
 
 Monitor sentiment in voice interactions for research or business purposes.
 
+
+
+
+
 Getting Started
 To get started with the project:
+
 
 Clone the repository: git clone <repository-url>
 Install the required dependencies.
